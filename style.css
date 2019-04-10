@@ -3,7 +3,7 @@
     width: 80px;
     height: 80px;
     border-radius: 50px;
-    background-color: rgb(116, 214, 36);
+    background-color: rgb(102, 51, 0);
     border: 10px solid rgb(0, 0, 0);
 }
 #container{
@@ -14,7 +14,7 @@
 
 #dirtbox{
     width: 600px;
-    height: 600px;
+    height: 500px;
     background-color: green;
     display: flex;
     flex-wrap: wrap;
